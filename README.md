@@ -13,7 +13,7 @@ I'm interested in web development, infosec and cloud technologies.
 - 👯 I’m looking to collaborate on open source projects with other students!
 
 - Social Media:
-  ![twitter-x](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/b404572b-7c84-4003-9589-22c9273524ab:https://twitter.com/dozeyes1)
+  ![twitter-x]([1]https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/b404572b-7c84-4003-9589-22c9273524ab) 
 
 
 
@@ -21,3 +21,4 @@ I'm interested in web development, infosec and cloud technologies.
 
 
 
+[1]: https://twitter.com/dozeyes1
