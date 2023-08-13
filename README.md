@@ -7,19 +7,11 @@ I'm interested in web development, infosec and cloud technologies.
 
 - 🔨 Skills:
   Project Management | Web Development | Video Editing
--  Tools:
-  ![DaVinci-Resolve-Studio-Logo](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/0f7ebc17-0a0b-4d0a-9b83-cae375d8a203)
-![gimp-logo](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/acc51bb0-f067-4b74-b973-f0c16d2b5f4a)
-![github](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/84b36dac-4870-48c9-82b4-4c7cc0880723)
-![HTML-CSS](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/4d24595a-5b55-4718-90fd-e64ef319cbc7)
-![vscode](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/0f6a0d8f-51ea-4b46-b1a3-e330c6a68a34)
-![vercel](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/76f31767-bc24-4a79-934f-c051771cca83)
-  
-  
 
 - 🔭 I’m currently working on building my personal website
+
 - 👯 I’m looking to collaborate on open source projects with other students!
-- 
+
 - 📫Social Media:
 ![linkedin](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/383db4aa-d721-44b9-9dd3-3816709c5345)[1]
 ![INSTAGRAM](https://github.com/ZoumpakisDimitris/ZoumpakisDimitris/assets/81482260/dd2f80af-ca67-4b84-8bec-cb8f044bbf56)[2]
