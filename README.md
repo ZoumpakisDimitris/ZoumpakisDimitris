@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
+My name is Dimitris Zoumpakis 
 
-<!--
-**ZoumpakisDimitris/ZoumpakisDimitris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧔 About me: 
+I am currently a freshman at EUC studying Computer Information Systems.
+I'm interested in web development, infosec and cloud technologies.
 
-Here are some ideas to get you started:
+- 🔨 Skills:
+  Project Management | Web Development | Video Editing 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building my personal website
+- 👯 I’m looking to collaborate on open source projects with other students!
+- 
+- 📫Social Media:
+- 
