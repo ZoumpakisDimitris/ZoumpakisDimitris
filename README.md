@@ -1,14 +1,11 @@
 ### Hi there 👋 
-My name is Dimitris Zoumpakis 
+My name is Dimitris Zoumpakis and 
+I'm interested in infosec and videogames 🚀
 
-- 🧔 About me: 
-I am currently a freshman at EUC studying Computer Information Systems.
-I'm interested in infosec, business and startups.
+🧔 About me: 
 
-- 🔨 Skills:
-  Web Dev | Networking | Project Management
+Coding with HTML, CSS, and diving into C 🌟 | On the path to becoming a tech wizard 🧙‍♂️ | Pursuing a B.S. in Computer Information Systems at EUC 📚 | Let's code together! 💻
 
-- 🔭 I’m currently learning C 
 
-- 👯 I’m looking to collaborate on open source projects with other students!
+
   
