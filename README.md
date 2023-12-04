@@ -1,6 +1,6 @@
 ### Hi there 👋 
 My name is Dimitris Zoumpakis and 
-I'm interested in infosec and entrepreneurship 🚀
+I'm interested in InfoSys and InfoSec 🚀
 
 Check my Website: "https://dimitriszoumpakis.com"
 
