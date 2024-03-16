@@ -6,7 +6,7 @@ Check my Website: "https://dimitriszoumpakis.com"
 
 🧔 About me: 
 
-Coding with HTML, CSS, and diving into C 🌟 | On the path to becoming a tech wizard 🧙‍♂️ | Pursuing a BSc in Computer Information Systems at EUC 📚 | Let's code together! 💻
+On the path to becoming a tech wizard 🧙‍♂️ | Pursuing a BSc in Computer Information Systems at EUC 📚
 
 
 
