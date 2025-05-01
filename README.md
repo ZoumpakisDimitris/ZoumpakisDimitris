@@ -1,12 +1,10 @@
 ### Hi there 👋 
-My name is Dimitris Zoumpakis and 
-I'm interested in InfoSys and InfoSec 🚀
+My name is Dimitris im studying Computer Information Systems at EUC and 
+I'm interested in Information Security 🚀
 
-Check my Website: "https://dimitriszoumpakis.com"
+Check more here: https://www.linkedin.com/in/dimitris-zoumpakis/
 
-🧔 About me: 
 
-On the path to becoming a tech wizard 🧙‍♂️ | Pursuing a BSc in Computer Information Systems at EUC 📚
 
 
 
