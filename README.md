@@ -1,7 +1,6 @@
 # Hi, I'm Dimitris 👋
 **BSc Computer Information Systems (European University Cyprus) – Class of 2027**  
-Cybersecurity, Networking & Cloud enthusiast | Solutions Architect in the making
-
+Information Systems | Networks | Cybersecurity | Systems Analysis
 🌐 [www.dimitriszoumpakis.com](https://www.dimitriszoumpakis.com)  
 🔗 [LinkedIn](https://linkedin.com/in/DimitrisZoumpakis) | [Instagram](https://instagram.com/zoumpakisdimitris) | [TryHackMe](https://tryhackme.com/p/Zoumpakis)
 
@@ -25,7 +24,6 @@ Cybersecurity, Networking & Cloud enthusiast | Solutions Architect in the making
 
 ## GitHub Stats
 
-![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoumpakisDimitris&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoumpakisDimitris&layout=compact)
 
 ---
