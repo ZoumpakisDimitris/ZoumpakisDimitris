@@ -2,7 +2,7 @@
 **BSc Computer Information Systems (European University Cyprus) – Class of 2027**  
 Information Systems | Networks | Cybersecurity | Systems Analysis
 🌐 [www.dimitriszoumpakis.com](https://www.dimitriszoumpakis.com)  
-🔗 [LinkedIn](https://linkedin.com/in/DimitrisZoumpakis) | [Instagram](https://instagram.com/zoumpakisdimitris) | [TryHackMe](https://tryhackme.com/p/Zoumpakis)
+🔗 [LinkedIn](https://linkedin.com/in/DimitrisZoumpakis) |  [TryHackMe](https://tryhackme.com/p/Zoumpakis)
 
 ---
 
