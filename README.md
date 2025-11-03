@@ -25,8 +25,8 @@ Cybersecurity, Networking & Cloud enthusiast | Solutions Architect in the making
 
 ## GitHub Stats
 
-![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=Zoumpakis&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zoumpakis&layout=compact)
+![Dimitris' GitHub stats](https://github-readme-stats.vercel.app/api?username=ZoumpakisDimitris&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoumpakisDimitris&layout=compact)
 
 ---
 
