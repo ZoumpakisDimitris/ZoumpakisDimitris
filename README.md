@@ -8,7 +8,6 @@ BSc Computer Information Systems — European University Cyprus (Class of 2027)
 
 ---
 
-## Focus
+Backend systems · Databases · Architecture thinking · Networking · Homelab
 
-Backend systems · Databases · Architecture fundamentals · Networking · Homelab learning
-
+---
