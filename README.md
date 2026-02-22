@@ -1,6 +1,7 @@
 # Hi, I'm Dimitris
 
 Backend & Systems-Oriented Developer — Database / Architecture Track
+
 BSc Computer Information Systems — European University Cyprus (Class of 2027)
 
 🌐 https://www.dimitriszoumpakis.com
