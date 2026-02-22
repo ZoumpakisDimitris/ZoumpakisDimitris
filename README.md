@@ -21,13 +21,3 @@ Information Systems | Networks | Cybersecurity | Systems Analysis
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel)  
 
 ---
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZoumpakisDimitris&layout=compact)
-
----
-
-## Currently Learning
-- CCNA Networking  
-- CompTIA Security+ (Sec+)
