@@ -5,7 +5,7 @@ I build and fix systems — mechanical, then digital. Now moving deeper into inf
 Started in my father's repair shop taking engines apart. The systems changed; the method didn't.
 
 - **Day job:** Software Developer — enterprise .NET for regulated organisations (C#, ASP.NET Core, Blazor, SQL Server, legacy VB.NET)
-- **Studying:** BSc Computer and Information Systems @ European University Cyprus (2027)
+- **Studying:** BSc Computer Information Systems @ European University Cyprus (2027)
 - **Homelab:** self-hosted infrastructure across two sites — Forgejo, WireGuard, Ollama
 - **Next:** BSc thesis on ML-enabled network traffic analysis
 
